@@ -1,0 +1,3 @@
+I'd like to setup my workspace with one command.
+It's better sync all the contents but that takes too much network overhead.
+Maybe we could do phantom file system. Just save the file name and when I really need it, copy it from the original. Something like git, distributed workspace with not all the content
